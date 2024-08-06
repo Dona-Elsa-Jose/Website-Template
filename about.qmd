@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-I'm a second year Computer Science and Engineering student doing minor in Computational Mathematics with a passion for pushing the boundaries of knowledge in AI. With a strong background in Computer Science, my research focuses on Practive Oriented AI, aiming to contribute to meaningful advancements and solutions.
+Hi, I’m Dona Elsa Jose, and I’m currently a second-year computer science student. I’m passionate about technology and excited to dive deeper into the world of programming, software development, and data analysis. I love tackling complex problems and finding innovative solutions. Outside of my studies, you’ll often find me collaborating on projects, participating in hackathons, or keeping up with the latest tech trends. I’m always eager to learn and grow in this ever-evolving field, and I’m looking forward to what the future holds!
